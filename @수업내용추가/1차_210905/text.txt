@@ -1,0 +1,23 @@
+C:\TIS20210905\VueReact\Vuejs\vue01docs\Vue수업자료-20210905.pdf
+
+밴드가입 : https://band.us/my/post
+자료 : https://github.com/sjydevildaum/TIS210905.git
+
+구글추가  : pub.devgit / @5+4
+깃허브 : - dot2flower@gmail.com / 5 4 ! / pubvue / (사용안함)
+
+깃허브 : - dot2flower@gmail.com / 5 4 ! / pubvue / (사용안함)
+   https://github.com/pubdevgit/studygit.git 
+   studygit
+   토큰 : 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
+
+-------------------------------
+
+- html은 자바스크립트다. 
+- 자바스크립트도 html이다. 
+- 태그는 객체, 
+- 속성은 프로퍼티
+- 자바스크립트는 카멜표기법 camelVa..
+- 함수는 const , 배열 let 생성? 
+- 기본타입 value, 
+item, 
